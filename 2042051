@@ -1,4 +1,1 @@
-%cd /content
-!rm -rf pmprog
-!git clone https://github.com/koji407/pmprog.git
-```
+message
